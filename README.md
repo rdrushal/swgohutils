@@ -1,0 +1,2 @@
+# swgohutils
+SWGOH Utilities
